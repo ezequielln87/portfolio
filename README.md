@@ -17,6 +17,7 @@ Requisitos de Recursos do Projeto:
 - Controle de Acesso
     - Níveis de Usuário
     - Grupos Recursivo de Usuário
+- Bootstrap 5
 
 Padrão de Projeto
 - MVC
