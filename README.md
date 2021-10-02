@@ -1,6 +1,5 @@
-## portfolio
-// Projeto Pessoal Portfólio
-// Autor Ezequiel Leal Nascimento
+# Projeto Pessoal Portfólio
+# Autor Ezequiel Leal Nascimento
 
 Requisitos de Recursos do Projeto:
 
@@ -9,7 +8,7 @@ Requisitos de Recursos do Projeto:
 - Aplicativo Web Flutter
     - Notificação via Api Google
     - Notificação via WebSocket
-    - CRUD de usuário e Login
+    - CRUD
 - Banco de dados MYSQL
     - Conexão PDO
 - API Rest 
